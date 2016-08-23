@@ -9,6 +9,9 @@
 * 如何搭建一个完整的视频直播系统？  
 https://www.zhihu.com/question/42162310
 
+* 如何实现1080P延迟低于500ms的实时超清直播传输技术   
+http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547697&idx=1&sn=acc748b7fcf0058b58e244970e51eabc&scene=2&srcid=0819XJhDXzVe0JbOMFhhJ3bA&from=timeline&isappinstalled=0#wechat_redirect
+
 【RTMP】  
 * rtmp标准协议  
 http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/rtmp/pdf/rtmp_specification_1.0.pdf
